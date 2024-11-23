@@ -1,0 +1,3 @@
+
+# because of in build/ folder there will be cmake files
+build/
